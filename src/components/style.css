@@ -1,0 +1,96 @@
+.picsContainer{
+    height: 100%;
+    width: 100%;
+}
+
+.picContainer1{
+    opacity: 1;
+    align-items: flex-end;
+    display: flex;
+    background-image: url("https://i.ytimg.com/vi/DgtXWjd3H5s/maxresdefault.jpg");
+    background-size: 100%;
+    transition: opacity 0.5s ease; 
+    padding-bottom: 10px;
+}
+.picContainer2{
+    opacity: 1;
+    align-items: flex-end;
+    display: flex;
+    background-image: url("https://freerangestock.com/sample/65643/elements-and-relations-in-proto-mesh--abstract-background.jpg");
+    background-position: left;
+    transition: opacity 0.5s ease;
+    padding-bottom: 10px;
+    background-size: 100%;
+
+}
+
+.picContainer3{
+    opacity: 1;
+    align-items: flex-end;
+    display: flex;
+    background-image: url("https://videohive.img.customer.envatousercontent.com/files/251879495/Preview%20Image.jpg?auto=compress%2Cformat&fit=crop&crop=top&max-h=8000&max-w=590&s=11ef229c5f30e88893031fb416af2457");
+    background-position: left;
+    
+    transition: opacity 0.5s ease; 
+    padding-bottom: 10px;
+    background-size: 100%;
+
+}
+
+img{
+    width: 65%; 
+    height: 360px !important;
+    position: relative;
+    border: 1px solid white !important;
+}
+
+#img2{
+    border: 3px solid black !important;
+}
+
+#img3{
+    border: 3px solid black !important;
+}
+
+
+
+.picJumbo{
+    transition: opacity 0.5s ease; 
+    opacity: 1;
+    background-color: grey;
+    align-self: flex-start;
+    position: relative;
+    min-width: fit-content;
+    height: 300px;
+    text-align: center;
+    font-size: 34px;
+    flex: 1;
+    top: 2vw;
+    border: 2px solid white;
+    background-color: #e9ecef6e;  
+    margin-right: 50px;
+    left: 1.2%;
+    color: whitesmoke;
+    font-weight: bold;
+    border-radius: 25%;
+}
+
+.picJumbo p{
+    margin-top: 15px;
+}
+
+button{
+    margin: 25px 0 0 0 !important;
+}
+
+svg{
+    position: relative;
+    left: -75px;
+    bottom: 50px;
+}
+@media only screen and (max-width: 700px) {
+    svg {
+        left: 0;
+        bottom: 0;
+    }
+  }
