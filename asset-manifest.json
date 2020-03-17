@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Web/static/css/main.528b24ac.chunk.css",
+    "main.js": "/Web/static/js/main.d0f05e26.chunk.js",
+    "main.js.map": "/Web/static/js/main.d0f05e26.chunk.js.map",
+    "runtime-main.js": "/Web/static/js/runtime-main.e474bf14.js",
+    "runtime-main.js.map": "/Web/static/js/runtime-main.e474bf14.js.map",
+    "static/css/2.de424728.chunk.css": "/Web/static/css/2.de424728.chunk.css",
+    "static/js/2.41b42561.chunk.js": "/Web/static/js/2.41b42561.chunk.js",
+    "static/js/2.41b42561.chunk.js.map": "/Web/static/js/2.41b42561.chunk.js.map",
+    "index.html": "/Web/index.html",
+    "precache-manifest.f1a1d9e74b3298b8e7282ddfab1da1be.js": "/Web/precache-manifest.f1a1d9e74b3298b8e7282ddfab1da1be.js",
+    "service-worker.js": "/Web/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/Web/static/css/2.de424728.chunk.css.map",
+    "static/css/main.528b24ac.chunk.css.map": "/Web/static/css/main.528b24ac.chunk.css.map",
+    "static/js/2.41b42561.chunk.js.LICENSE.txt": "/Web/static/js/2.41b42561.chunk.js.LICENSE.txt",
+    "static/media/KeyFinder.png": "/Web/static/media/KeyFinder.7350072e.png",
+    "static/media/LaserGrid.png": "/Web/static/media/LaserGrid.44e0b04a.png",
+    "static/media/Relaatio.png": "/Web/static/media/Relaatio.0c126ba9.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e474bf14.js",
+    "static/css/2.de424728.chunk.css",
+    "static/js/2.41b42561.chunk.js",
+    "static/css/main.528b24ac.chunk.css",
+    "static/js/main.d0f05e26.chunk.js"
+  ]
+}
